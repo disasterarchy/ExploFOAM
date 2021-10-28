@@ -1,1 +1,1 @@
-# OpenFOAM
+# ExploFOAM
